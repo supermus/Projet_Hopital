@@ -1,4 +1,4 @@
-package org.projet.hopital.dao;
+/*package org.projet.hopital.dao;
 
 import org.projet.hopital.entities.Client;
 import org.projet.hopital.entities.Compte;
@@ -17,3 +17,4 @@ public interface IBanqueDao {
 	
 
 }
+*/
