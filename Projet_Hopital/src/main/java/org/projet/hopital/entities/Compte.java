@@ -20,6 +20,8 @@ public class Compte implements Serializable{
 	private String username;
 	private String password;
 	private boolean activated;
+	
+	
 	public Long getIduser() {
 		return iduser;
 	}

@@ -1,6 +1,6 @@
 package org.projet.hopital.dao;
 
-import org.projet.hopital.model.*;
+
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
