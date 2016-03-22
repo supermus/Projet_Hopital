@@ -20,6 +20,7 @@ public class Employee implements Serializable{
 	private Long matricule;
 	private Long nsecu;
 	
+	
 	public Employee(String prenom, String nom, Long nsecu) {
 		super();
 		this.prenom = prenom;
