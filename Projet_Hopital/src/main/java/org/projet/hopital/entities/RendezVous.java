@@ -8,9 +8,8 @@ public class RendezVous {
 	private String heure;
 
 	
-	public RendezVous(String date, String heure){
-		super();
-		
+	public RendezVous(){
+	
 	}
 	
 	public String getDate() {
