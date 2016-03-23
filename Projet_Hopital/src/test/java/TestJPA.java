@@ -7,7 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class TestJPA {
 	
 	@Before
-	public void setUp() throws Exception{}
+	public void setUp() throws Exception {}
 
 	@Test
 	public void test() {
